@@ -1,4 +1,4 @@
-
+//test
  let newArray =[];
  const answer = (arr) => {
      newArray = []; // clear newArray
